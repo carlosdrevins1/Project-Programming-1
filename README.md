@@ -1,0 +1,2 @@
+# Project-Programming-1
+This is the public project for Programming 1 by Carlos and Thomas
