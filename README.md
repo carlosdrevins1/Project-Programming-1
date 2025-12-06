@@ -14,8 +14,9 @@ and you must already have a strong following, otherwise your chances of success 
 You can run this notebook by doing the following:
 1. Download VS Code.
 2. Download Jupitor and Python extensions.
-3. Paste: git clone https://github.com/carlosdrevins1/Project-Programming-1.git
+3. In the terminal copy and paste: git clone https://github.com/carlosdrevins1/Project-Programming-1.git
 cd Project-Programming-1 in the terminal
-4. 
+4. In the terminal copy and paste: pip install -r requirements.txt
+5. Open up the notebook and run the files.
 
 ...
