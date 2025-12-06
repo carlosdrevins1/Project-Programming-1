@@ -11,6 +11,11 @@ What are the defining characteristics of a song that make it a success on Spotif
 What we found from the Spotify Data set is that in order to have the highest probability of success on Spotify in 2025, your song should have the following characteristics: 
 Be in any of these genres: Pop, country, or hip hop, be 2:45-4:00 minutes long, peaking between 3:15-3:45, have a short title (1-2 words long),
 and you must already have a strong following, otherwise your chances of success are minimal.
-
+You can run this notebook by doing the following:
+1. Download VS Code.
+2. Download Jupitor and Python extensions.
+3. Paste: git clone https://github.com/carlosdrevins1/Project-Programming-1.git
+cd Project-Programming-1 in the terminal
+4. 
 
 ...
